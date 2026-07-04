@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project defines an **AI-driven requirement analysis workflow** (implemented as a WorkBuddy Skill). Instead of making decisions for you, it uses a structured questioning framework to help you refine fuzzy ideas into well-defined, executable tasks — while accumulating reusable experience along the way.
+This project defines an **AI-driven requirement analysis workflow**. Instead of making decisions for you, it uses a structured questioning framework to help you refine fuzzy ideas into well-defined, executable tasks — while accumulating reusable experience along the way.
 
 ## Core Philosophy
 
@@ -94,9 +94,9 @@ When the skill is already running, it detects modification signals and adjusts a
 
 ## Usage
 
-This skill is designed for use with [WorkBuddy](https://www.codebuddy.cn/docs/workbuddy/Overview). To use it:
+To use this workflow:
 
-1. Place `SKILL.md` in your WorkBuddy skills directory.
+1. Place `SKILL.md` in your AI assistant's skills/prompt directory.
 2. Start a conversation with any requirement-related prompt (e.g., "I want to build a...").
 3. The workflow activates automatically and guides you through the phases.
 
